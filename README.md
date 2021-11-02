@@ -19,5 +19,6 @@ Simple Linear Regression (SLR) is a regression model that estimates the relation
 - w = weight
 - b = Bias
 
+![mxplusc](http://www.nabla.hr/SlopeInterceptLineEqu.gif)
 
 
