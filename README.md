@@ -28,7 +28,7 @@ w= w-a*dw
 b = b-a*db
 
 # Linear Regression using Gradient Descent  
-![Gradeint descent](animation1.gif)
+
 ## Linear Regression   
 In statistics, linear regression is a linear approach to modelling the relationship between a dependent variable and one or more independent variables. 
 Let **X** be the independent variable and **Y** be the dependent variable. We will define a linear relationship between these two variables as follows:  
