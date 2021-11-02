@@ -22,6 +22,10 @@ X = Independent feature\
 w = weight\
 b = Bias
 
+This line calculates the best fit line for your model
+- LR.fit(X_train,y_train)
+- Which uses gradient descent 
+
 ## Loss Function
 The loss is the error in our predicted of m and c. Our goal is to minimize this error to obtain the most accurance value of m and c.
 We will use the Mean Squared Error function to calculate the loss. There are three steps in this function:
