@@ -2,6 +2,8 @@
 
 Simple Linear Regression.ipynb shows how Simple Linear Regression is applied on a real world data set
 
+Linear Regression using Gradient Descent.ipynb explains what Simple Linear Regression is and how Gradient Descent is used to find the best fit line
+
 ------------------------------------------------------------------------------------
 
 The purpose of this project was to get familiar with Simple Linear Regression (LSR) and see how it is used in practice. Simple Linear Regression only has 2 variables:
