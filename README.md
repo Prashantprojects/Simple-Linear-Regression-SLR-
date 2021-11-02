@@ -29,3 +29,6 @@ We will use the Mean Squared Error function to calculate the loss. There are thr
 1. Find the difference between the actual y and predicted y value(y = mx + c), for a given x.
 2. Square this difference.
 3. Find the mean of the squares for every value in X.
+
+## The Gradient Descent Algorithm
+Gradient descent is an iterative optimization algorithm to find the minimum of a function. Here that function is our Loss Function.
