@@ -23,3 +23,9 @@ w = weight\
 b = Bias
 
 ## Loss Function
+The loss is the error in our predicted of m and c. Our goal is to minimize this error to obtain the most accurance value of m and c.
+We will use the Mean Squared Error function to calculate the loss. There are three steps in this function:
+
+1. Find the difference between the actual y and predicted y value(y = mx + c), for a given x.
+2. Square this difference.
+3. Find the mean of the squares for every value in X.
